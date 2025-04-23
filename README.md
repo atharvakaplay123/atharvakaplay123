@@ -1,5 +1,5 @@
 # Hi, I'm Atharva Kaplay 👋
-### 👨‍💻 Robotics & Embedded Systems Enthusiast | CSE Student | Aspiring OS Engineer
+### 👨‍💻 CSE Student | Robotics & Embedded Systems Enthusiast | Learning new Technologies
 
 🔭 I’m currently working on:
 - 🔧 IoT/Robotics Projects
@@ -12,19 +12,20 @@
 - C, C++ 
 
 📫 How to reach me:
-- Email: atharvakaplay@gmail.com
+- [Email](mailto:atharvakaplay@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/atharva-kaplay-b90435330)
 - [Portfolio](https://atharvakaplay123.github.io/)
 - [Instagram](https://www.instagram.com/atharva_kaplay1007/)
 
+<!--
 💼 Tools & Technologies:
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white)
+[](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
+-->
 > 🚀From bits to bots - join me on the journey!🚀
 
 
