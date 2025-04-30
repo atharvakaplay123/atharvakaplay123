@@ -12,10 +12,11 @@
 - C, C++ 
 
 📫 How to reach me:
-- [Email](mailto:atharvakaplay@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/atharvakaplay/)
 - [Portfolio](https://atharvakaplay123.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/atharvakaplay/)
+- [Email](mailto:atharvakaplay@gmail.com)
 - [Instagram](https://www.instagram.com/atharva_kaplay1007/)
+- [LeetCode](https://leetcode.com/u/atharvakaplay/)
 
 <!--
 💼 Tools & Technologies:
