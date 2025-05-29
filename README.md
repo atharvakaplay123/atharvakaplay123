@@ -12,7 +12,7 @@
 - C, C++ 
 
 📫 How to reach me:
-- [Portfolio](https://atharvakaplay123.github.io/)
+- [Portfolio🌐](https://atharvakaplay123.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/atharvakaplay/)
 - [Email](mailto:atharvakaplay@gmail.com)
 - [Instagram](https://www.instagram.com/atharva_kaplay1007/)
