@@ -11,7 +11,7 @@
 - RaspberryPi, Python & ROS Basics
 - C, C++ 
 
-📫 How to reach me:
+## 🔗 Links
 - [Portfolio🌐](https://atharvakaplay123.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/atharvakaplay/)
 - [Email](mailto:atharvakaplay@gmail.com)
