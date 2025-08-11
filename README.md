@@ -16,6 +16,7 @@
 - [LinkedIn](https://www.linkedin.com/in/atharvakaplay/)
 - [Email](mailto:atharvakaplay@gmail.com)
 - [Instagram](https://www.instagram.com/atharva_kaplay1007/)
+- [Hackster.io](https://www.hackster.io/atharva-kaplay)
 - [HackerRank](https://www.hackerrank.com/profile/atharvakaplay007)
 - [LeetCode](https://leetcode.com/u/atharvakaplay/)
 
