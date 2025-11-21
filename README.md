@@ -1,17 +1,55 @@
-# Hi, I'm Atharva Kaplay 👋
-### 👨‍💻 CSE Student | Robotics & Embedded Systems Enthusiast | Learning new Technologies
+# 👋 Hi, I'm Atharva Kaplay
 
-🔭 I’m currently working on:
-- 🔧 IoT/Robotics Projects
-- 🧠 Learning C, Python, Web Development, and Linux kernel basics
-- 🤖 Raspberry Pi & ESP32 Projects
+An aspiring **IoT & MERN-Stack Developer** passionate about building real-world systems combining hardware intelligence and scalable software.
 
-🌱 I’m currently learning:
-- Advanced Arduino & ESP32 libraries
-- RaspberryPi, Python & ROS Basics
-- C, C++ 
+---
 
-## 🔗 Links
+## 🚀 About Me
+
+- 💻 Aspiring MERN & Node.js Developer  
+- 🧠 Robotics, Embedded Systems & IoT Innovator  
+- 🤖 Working with Arduino, ESP32, Raspberry Pi, Sensors & Actuators
+
+---
+
+## 🛠 Tech Stack
+
+### **Languages**
+- C, C++, Python, JavaScript (Node.js), Bash
+
+### **Software & Tools**
+- Node.js, Express.js, MongoDB, Mongoose  
+- EJS, HTML, CSS, JS  
+- Git, Linux/Ubuntu, WSL, Docker (Basics)
+
+### **Embedded & IoT**
+- Arduino, ESP8266/ESP32, Raspberry Pi 5  
+- Sensors, Actuators, IoT Cloud (Blynk, Firebase)
+---
+
+## 📌 Featured Projects
+
+### 🔹 **KrishiMarg – Smart IoT + AI Crop Recommendation System**
+IoT-based farm sensor network (ESP32 → Firebase → Node.js) with an ML crop prediction model built using scikit-learn.
+
+### 🔹 **Smart Fire Safety IoT System – Tech-O-Tsav Winner**
+An ESP32-based automated fire-suppression system sending alerts to Blynk cloud and activating water sprinklers.
+
+### 🔹 **RFID IoT Security System**
+ESP8266 + MFRC522 RFID-based attendance/security system logging real-time entries into Google Sheets.
+
+---
+
+## 📈 GitHub Stats
+
+![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atharva-Kaplay&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Kaplay&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
 - [Portfolio🌐](https://atharvakaplay123.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/atharvakaplay/)
 - [Email](mailto:atharvakaplay@gmail.com)
@@ -21,30 +59,11 @@
 - [HackerRank](https://www.hackerrank.com/profile/atharvakaplay007)
 - [LeetCode](https://leetcode.com/u/atharvakaplay/)
 
-<!--
-💼 Tools & Technologies:
-[](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-![](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
--->
+---
+
+## ⭐ Support
+
+If you like my work, consider giving a **⭐ star** to my repositories.  
+Your support motivates me to build more awesome robotics + IoT projects!
+ 
 > 🚀From bits to bots - join me on the journey!🚀
-
-
-
-<!--
-**atharvakaplay123/atharvakaplay123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
