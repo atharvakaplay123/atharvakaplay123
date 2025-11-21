@@ -42,9 +42,9 @@ ESP8266 + MFRC522 RFID-based attendance/security system logging real-time entrie
 
 ## 📈 GitHub Stats
 
-![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atharva-Kaplay&show_icons=true&theme=tokyonight)
+![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharvakaplay123&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Kaplay&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakaplay123&layout=compact&theme=tokyonight)
 
 ---
 
