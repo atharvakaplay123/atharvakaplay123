@@ -50,7 +50,7 @@ ESP8266 + MFRC522 RFID-based attendance/security system logging real-time entrie
 
 ## 🌐 Connect With Me
 
-- [Portfolio🌐](https://atharvakaplay123.github.io/)
+- [Portfolio🌐](https://atharvakaplay.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/atharvakaplay/)
 - [Email](mailto:atharvakaplay@gmail.com)
 - [Instagram](https://www.instagram.com/atharva_kaplay1007/)
