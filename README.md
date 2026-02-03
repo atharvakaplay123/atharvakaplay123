@@ -29,11 +29,11 @@ An aspiring **IoT & MERN-Stack Developer** passionate about building real-world 
 
 ## 📌 Featured Projects
 
+### 🔹 **JobTSU – Job That Suits You**
+AI-powered career recommendation platform that maps resume skills to suitable job roles, highlights skill gaps, and suggests learning paths with ATS-focused resume and LinkedIn insights.
+
 ### 🔹 **KrishiMarg – Smart IoT + AI Crop Recommendation System**
 IoT-based farm sensor network (ESP32 → Firebase → Node.js) with an ML crop prediction model built using scikit-learn.
-
-### 🔹 **Smart Fire Safety IoT System – Tech-O-Tsav Winner**
-An ESP32-based automated fire-suppression system sending alerts to Blynk cloud and activating water sprinklers.
 
 ### 🔹 **RFID IoT Security System**
 ESP8266 + MFRC522 RFID-based attendance/security system logging real-time entries into Google Sheets.
